@@ -4,12 +4,12 @@ Apresento algumas informações referentes ao meu processo de perda de peso nest
 
 ## Pacotes
 Foram utilizados os seguintes pacotes:
-'''
+```
 NumPy
 Pandas
 DateTime
 Matplotlib
 Seaborn
-'''
+```
 
 ## Coleta de Dados
