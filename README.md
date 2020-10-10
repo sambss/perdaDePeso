@@ -1,1 +1,14 @@
-Por 2 anos e meio, medi quanto eu pesava 1 vez por semana. Realizava uma auto-avaliação das ações que tomei naquela semana. Registrava as positivas, as negativas e assinalava metas para a seguinte. O registro do peso, em kg, foi inicialmente anotado em um caderno. Na sequência, criei um arquivo .ods com os dados armazenados. Em seguida, converti para .csv para poder trabalhar com Python e Pandas.
+# Perda de Peso
+
+Apresento algumas informações referentes ao meu processo de perda de peso neste projeto. Por 2 anos e meio, medi quanto eu pesava 1 vez por semana. Comecei com 108.8kg e encerrei os registros com 78.0. As variações ocorridas neste processo são apresentadas em tabelas e gráficos.
+
+## Pacotes
+Foram utilizados os seguintes pacotes:
+'''NumPy
+Pandas
+DateTime
+Matplotlib
+Seaborn
+'''
+
+## Coleta de Dados
